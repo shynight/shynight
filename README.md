@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shynight
 - 👀 I’m interested in a lot of things, basically every field related to computers. I stil haven't found my niche yet but I soon wil :)
-- 🌱 I’m currently a Under-grad student at UnitedWorld School of Computational Intelligence.
+- 🌱 I’m currently an Under-grad student at UnitedWorld School of Computational Intelligence.
 - 📫 To reach me use,
   Linkedin - https://www.linkedin.com/in/adityawardhan-mishra/
 
